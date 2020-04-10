@@ -30,6 +30,9 @@ def update_status
   p epic_tragedy
 end
 
+update_status
+
+
 def add_characters
    epic_tragedy = {
       :montague => {
